@@ -26,3 +26,4 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser renders the notes dynamically without reloading the page
+    ```
